@@ -1,7 +1,8 @@
-## Selected projects in Machne Learning
+# Irched's Data Science Portfolio
+
+## Selected projects in Machine Learning
 
 ### Self-supervised deep learning for beam prediction in mmWave networks
-%### [self-supervised deep learning for beam prediction in mmWave networks](/sample_page)
 Beam prediction in dynamic mmWave networks is a challenging task. In this project, self-supervised deep learning is leveraged to predict, based on sub-6 GHz channels data, mmWave beams in an access-point/receiver link and optimize the data rate. The trained neural network exploits the channel data at the input to output the beamforming vector for the mmWave band. 
 
 <img src="images/proj1.png?raw=true" />
@@ -24,19 +25,10 @@ This project is the final project of the IBM Data Science professional certifica
 
 <img src="images/proj3.png?raw=true"/>
 
-[View code on Github](https://github.com)
+[View code on Github](https://github.com/irchchaf/Data-Science-Capstone-coursera_course-)
 
 ---
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
