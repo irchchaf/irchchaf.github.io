@@ -1,4 +1,4 @@
-# Irched's Data Science Portfolio
+# Portfolio
 
 ---
 
