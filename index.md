@@ -1,10 +1,9 @@
-## Portfolio
+%## Portfolio
 
----
+Selected projects in Machne Learning
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[self-supervised deep learning for beam prediction in mmWave networks](/sample_page)
+Beam prediction in dynamic mmWave networks is a challenging task. In this project, self-supervised deep learning is leveraged to predict, starting from sub-6 GHz channels data, mmWave beams in an access-point -- receiver link to optimize the data rate.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
