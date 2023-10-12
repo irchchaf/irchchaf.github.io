@@ -1,6 +1,10 @@
 # Irched's Data Science Portfolio
 
+---
+
 ## Selected projects in Machine Learning
+
+---
 
 ### Self-supervised deep learning for beam prediction in mmWave networks
 Beam prediction in dynamic mmWave networks is a challenging task. In this project, self-supervised deep learning is leveraged to predict, based on sub-6 GHz channels data, mmWave beams in an access-point/receiver link and optimize the data rate. The trained neural network exploits the channel data at the input to output the beamforming vector for the mmWave band. 
