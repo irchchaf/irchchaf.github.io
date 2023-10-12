@@ -3,11 +3,12 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  <br>
   PhD. in Networks, Information and Communication sciences, Université Paris-Saclay.
+  
+  <br><br>
   IBM Data Science professional certificate.
   <br><br>
-  Second description TBD
-  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
   <a href="https://www.linkedin.com/in/example/">View My Personal page</a> 
 
 theme: jekyll-theme-minimal
