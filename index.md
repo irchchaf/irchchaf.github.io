@@ -20,6 +20,8 @@ In a multi-link network, a federated learning scheme is proposed to predict the 
 
 <img src="images/proj2.png?raw=true"/>
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
+[![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#)
 ---
 
 ### SpaceX Falcon 9 first stage Landing Prediction
@@ -27,6 +29,11 @@ This project is the final project of the IBM Data Science professional certifica
 
 <img src="images/proj3.png?raw=true"/>
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/SQL-white?logo=SQL)](#)
+[![](https://img.shields.io/badge/html-white?logo=html)](#)  [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+[![](https://img.shields.io/badge/Dash-white?logo=Dash)](#)
+  
 [View code on Github](https://github.com/irchchaf/Data-Science-Capstone-coursera_course-)
 
 ---
@@ -34,12 +41,18 @@ This project is the final project of the IBM Data Science professional certifica
 ### Customers feedback sentiment analysis
 In this project, I classify customers feedback from various sources such as social media, review platforms and testimonials into positive or negative by performing sentiment analysis.
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)   [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
 [View code on Github](https://github.com/irchchaf/Customer_feedback_sentiment_analysis)
 
 ---
 
 ### Classification and Regression
 This projects contains notebooks of regression and classification problems. The first notebook represents a classification problem to predict whether a patient is infected with covid-19 or not. The second notebook aims to predict a diamond price using tabular regression. It contains two main parts: EDA and price prediction. 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)   [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 [View code on Github](https://github.com/irchchaf/regression_and_classification_problems)
 
