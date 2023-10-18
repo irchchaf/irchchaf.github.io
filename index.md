@@ -13,6 +13,7 @@ Beam prediction in dynamic mmWave networks is a challenging task. In this projec
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 [![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#)
+
 ---
 
 ### Federated Learning for beam prediction in multi-link mmWave networks
@@ -22,6 +23,7 @@ In a multi-link network, a federated learning scheme is proposed to predict the 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 [![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#)
+
 ---
 
 ### SpaceX Falcon 9 first stage Landing Prediction
