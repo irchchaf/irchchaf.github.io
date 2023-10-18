@@ -11,16 +11,12 @@ Beam prediction in dynamic mmWave networks is a challenging task. In this projec
 
 <img src="images/proj1.png?raw=true" />
 
-[View code on Github](https://github.com)
-
 ---
 
 ### Federated Learning for beam prediction in multi-link mmWave networks
 In a multi-link network, a federated learning scheme is proposed to predict the mmWave beamforming vectors locally, at each access-point. Federated learning consists in sharing  local models with a server, which can aggregate them into a more informed global model for all links, leading to better performance without sharing their local data. In this project, we investigate both synchronous and asynchronous modes of uploading of the local models, and compare their performance to centralized learning.  
 
 <img src="images/proj2.png?raw=true"/>
-
-[View code on Github](https://github.com)
 
 ---
 
