@@ -12,6 +12,7 @@ Beam prediction in dynamic mmWave networks is a challenging task. In this projec
 <img src="images/proj1.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
+[![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#)
 ---
 
 ### Federated Learning for beam prediction in multi-link mmWave networks
