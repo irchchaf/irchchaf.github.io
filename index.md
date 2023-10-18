@@ -32,8 +32,6 @@ This project is the final project of the IBM Data Science professional certifica
 ### Customers feedback sentiment analysis
 In this project, I classify customers feedback from various sources such as social media, review platforms and testimonials into positive or negative by performing sentiment analysis.
 
-<img src="images/proj4.png?raw=true"/>
-
 [View code on Github](https://github.com/irchchaf/Customer_feedback_sentiment_analysis)
 
 ---
