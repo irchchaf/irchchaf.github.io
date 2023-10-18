@@ -36,7 +36,12 @@ In this project, I classify customers feedback from various sources such as soci
 
 [View code on Github](https://github.com/irchchaf/Customer_feedback_sentiment_analysis)
 
+---
 
+### Classification and Regression
+This projects contains notebooks of regression and classification problems. The first notebook represents a classification problem to predict whether a patient is infected with covid-19 or not. The second notebook aims to predict a diamond price using tabular regression. It contains two main parts: EDA and price prediction. 
+
+[View code on Github](https://github.com/irchchaf/regression_and_classification_problems)
 
 
 
