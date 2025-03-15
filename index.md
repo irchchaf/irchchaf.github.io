@@ -7,12 +7,14 @@
 ---
 
 ### Self-supervised deep learning for beam prediction in mmWave networks
-Beam prediction in dynamic mmWave networks is a challenging task. In this project, self-supervised deep learning is leveraged to predict, based on sub-6 GHz channels data, mmWave beams in one access-point/receiver link and optimize the data rate. The trained neural network exploits the channel data at the input to output the beamforming vector for the mmWave band. 
+Beam prediction in dynamic mmWave networks is a challenging task. In this project, self-supervised deep learning is leveraged to predict, based on sub-6 GHz channels data, mmWave beams in one access-point/receiver link and optimize the data rate. The trained neural network exploits the sub-6 GHz channel data at the input to output directly the beamforming vector for the mmWave band. 
 
 <img src="images/proj1.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 [![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#)
+
+[View code on Github](https://github.com/irchchaf/Data-Science-Capstone-coursera_course-)
 
 ---
 
