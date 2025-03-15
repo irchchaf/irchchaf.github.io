@@ -24,7 +24,7 @@ In a multi-link network, a federated learning scheme is proposed to predict the 
 <img src="images/proj2.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
-[![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#)
+[![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#) [![](https://img.shields.io/badge/Keras-white?logo=Keras)](#)
 
 ---
 
