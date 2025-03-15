@@ -12,7 +12,7 @@ Beam prediction in dynamic mmWave networks is a challenging task. In this projec
 <img src="images/proj1.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
-[![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#)
+[![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#) [![](https://img.shields.io/badge/Keras-white?logo=Keras)](#)
 
 [View code on Github](https://github.com/irchchaf/mmWave_beam_prediction)
 
@@ -25,6 +25,8 @@ In a multi-link network, a federated learning scheme is proposed to predict the 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 [![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#) [![](https://img.shields.io/badge/Keras-white?logo=Keras)](#)
+
+[View code on Github](https://github.com/irchchaf/mmWave_beam_prediction)
 
 ---
 
