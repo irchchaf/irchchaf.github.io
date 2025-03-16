@@ -58,7 +58,7 @@
 ---
 
 ### Customers feedback sentiment analysis
-In this project, I classify customers feedback from various sources such as social media, review platforms and testimonials into positive or negative by performing sentiment analysis.
+<p style="text-align: justify;">In this project, I classify customers feedback from various sources such as social media, review platforms and testimonials into positive or negative by performing sentiment analysis.</p>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)   [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
@@ -68,7 +68,7 @@ In this project, I classify customers feedback from various sources such as soci
 ---
 
 ### Classification and Regression
-This projects contains notebooks of regression and classification problems. The first notebook represents a classification problem to predict whether a patient is infected with covid-19 or not. The second notebook aims to predict a diamond price using tabular regression. It contains two main parts: EDA and price prediction. 
+<p style="text-align: justify;">This projects contains notebooks of regression and classification problems. The first notebook represents a classification problem to predict whether a patient is infected with covid-19 or not. The second notebook aims to predict a diamond price using tabular regression. It contains two main parts: EDA and price prediction. </p>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)   [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
