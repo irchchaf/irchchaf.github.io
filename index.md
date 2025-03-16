@@ -44,7 +44,7 @@
 ---
 
 ### SpaceX Falcon 9 first stage Landing Prediction
-<p style="text-align: justify;">This project is the final project of the IBM Data Science professional certificate on Coursera. It exploits machine learning  tools to  predict if the Falcon 9 first stage will land successfully. The project involves collecting data, Exploratory Data Analysis, data vizualisation, feature engineering, SQL queries and prediction using different estimators. The machine learning pipeline allows to predict the sucess of the first stage landing, which reduces the launch cost. </p>
+<p style="text-align: justify;">This project is the final project of the IBM Data Science professional certificate on Coursera. It exploits machine learning  tools to  predict if the Falcon 9 first stage will land successfully. The project involves collecting data, Exploratory Data Analysis, data vizualisation, feature engineering, SQL queries and prediction using different estimators. The machine learning pipeline allows to predict the sucess of the first stage landing, which reduces the launch cost.</p>
 
 <img src="images/proj3.png?raw=true"/>
 
@@ -68,7 +68,7 @@
 ---
 
 ### Classification and Regression
-<p style="text-align: justify;">This projects contains notebooks of regression and classification problems. The first notebook represents a classification problem to predict whether a patient is infected with covid-19 or not. The second notebook aims to predict a diamond price using tabular regression. It contains two main parts: EDA and price prediction. </p>
+<p style="text-align: justify;">This projects contains notebooks of regression and classification problems. The first notebook represents a classification problem to predict whether a patient is infected with covid-19 or not. The second notebook aims to predict a diamond price using tabular regression. It contains two main parts: EDA and price prediction.</p>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)   [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
