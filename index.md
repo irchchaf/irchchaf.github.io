@@ -6,6 +6,19 @@
 
 ---
 
+### Transformer model for flexible power optimization
+The transformer model is trained to predict optimal powers (Uplink and Downlink jointly) for wireless networks using the positions of users and transmitters as input information. The transformer architecture allows to handle varying input sizes to handle the dynamic nature of wireless networks with varying user loads and active transmitters. The trained model provides optimal power performance, but with less computational complexity and input information compared to the traditional optimization methods.
+
+<img src="images/proj1.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
+
+[View code on Github](https://github.com/irchchaf/mmWave_beam_prediction)
+
+---
+
+---
+
 ### Self-supervised deep learning for beam prediction in mmWave networks
 Beam prediction in dynamic mmWave networks is a challenging task. In this project, self-supervised deep learning is leveraged to predict, based on sub-6 GHz channels data, mmWave beams in one access-point/receiver link and optimize the data rate. The trained neural network exploits the sub-6 GHz channel data at the input to output directly the beamforming vector for the mmWave band. 
 
@@ -26,7 +39,7 @@ In a multi-link network, a federated learning scheme is proposed to predict the 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 [![](https://img.shields.io/badge/Matlab-white?logo=Matlab)](#) [![](https://img.shields.io/badge/Keras-white?logo=Keras)](#)
 
-[View code on Github](https://github.com/irchchaf/mmWave_beam_prediction)
+[View code on Github](https://github.com/irchchaf/Federated_Learning_multilink_mmWave_beam_prediction)
 
 ---
 
