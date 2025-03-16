@@ -1,5 +1,3 @@
-# Portfolio
-
 ---
 
 ## Selected projects in Machine Learning
