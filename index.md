@@ -9,7 +9,7 @@
 ### Transformer model for flexible power optimization
 The transformer model is trained to predict optimal powers (Uplink and Downlink jointly) for wireless networks using the positions of users and transmitters as input information. The transformer architecture allows to handle varying input sizes to handle the dynamic nature of wireless networks with varying user loads and active transmitters. The trained model provides optimal power performance, but with less computational complexity and input information compared to the traditional optimization methods.
 
-<img src="images/proj1.png?raw=true" />
+<img src="images/projTNNPA.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
 
