@@ -4,16 +4,6 @@ PORTFOLIO
 ## Selected projects in Machine Learning
 
 ---
-
-%### Binary Tree Attention for power optimization (Supervised Learning)
-%<p style="text-align: justify;">Binary Tree Attention is used with a transformer model to learn interactions between users and transmitters %while reducing the cost of the attention mechanism. This can help  predict the powers of the wireless system with less computation complexity %compared to the classical attention mechanism of the Transformer. Hence, it is sutable for dynamic wireless systems with large numbers of %users.</p>
-
-
-%[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
-
-%[View code on Github](https://github.com/irchchaf/Binary_tree_attention/tree/main)
-
----
 ---
 
 ### Transformer model for flexible power optimization (Unsupervised Learning)
@@ -21,8 +11,6 @@ PORTFOLIO
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
-
-[View code on Github](https://github.com/irchchaf/Transformer_Power_Optimization_Unsupervised_Learning/tree/main)
 
 ---
 
