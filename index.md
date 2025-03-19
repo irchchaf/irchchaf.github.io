@@ -12,7 +12,7 @@ PORTFOLIO
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
 
-[View code on Github](https://github.com/irchchaf/mmWave_beam_prediction)
+[View code on Github](https://github.com/irchchaf/Transformer_Power_Optimization/tree/main)
 
 ---
 
