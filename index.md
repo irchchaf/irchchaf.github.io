@@ -8,7 +8,6 @@ PORTFOLIO
 ### Transformer model for flexible power optimization (Unsupervised Learning)
 <p style="text-align: justify;">The transformer model is trained, in an unsupervised framework, to predict optimal Downlink powers for wireless networks, such that the minimum spectral efficiency (SE) is maximized. The transformer architecture allows to handle varying input sizes to handle the dynamic nature of wireless networks with varying user loads and active transmitters. The trained model provides the optimal powers without the need to have them during the training, which simplifies the data-gathering phase for the wireless system.</p>
 
-<img src="images/projTNNPA.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
 
