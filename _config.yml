@@ -10,11 +10,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="https://www.linkedin.com/in/ic33/">View My LinkedIn Profile</a> 
    
-  <br>
-  
-  <a href="https://scholar.google.com/citations?user=Mbo9cWUAAAAJ&hl=en">List of Publications</a> 
+  <br><br>
 
-  <br>
+<a href="https://scholar.google.com/citations?user=Mbo9cWUAAAAJ&hl=en">List of Publications</a> 
+
+<br>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
