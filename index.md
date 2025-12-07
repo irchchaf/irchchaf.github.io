@@ -1,20 +1,21 @@
-PORTFOLIO
+Summary
+---
+Researcher at the intersection of machine learning and wireless communications, with expertise in optimization, deep learning, and distributed learning for next-generation networks developed through PhD and postdoctoral projects. Skilled in Python, MATLAB, and AI-driven modeling, with a solid publication record and experience in interdisciplinary collaboration.
 ---
 
-## Selected projects in Machine Learning
+## Selected projects 
 
 ---
----
 
-### Transformer model for flexible power optimization (Unsupervised Learning)
-<p style="text-align: justify;">The transformer model is trained, in an unsupervised framework, to predict optimal Downlink powers for wireless networks, such that the minimum spectral efficiency (SE) is maximized. The transformer architecture allows to handle varying input sizes to handle the dynamic nature of wireless networks with varying user loads and active transmitters. The trained model provides the optimal powers without the need to have them during the training, which simplifies the data-gathering phase for the wireless system.</p>
+### Hybrid Tree-Transformer Model for Power Optimization
+<p style="text-align: justify;">This project introduces a hybrid Tree-Transformer model for efficient per-user power optimization in wireless networks. By compressing user features into a single root and applying a Transformer only to this representation, the model achieves scalable inference with minimal computational cost. Experiments show it delivers near-optimal performance while significantly reducing runtime compared to standard full-attention approaches.</p>
 
+<img src="images/projTree_Transf.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
 
----
+[View code on Github](https://github.com/irchchaf/Hybrid-Tree-Transformer-Model)
 
----
 ---
 
 ### Transformer model for flexible power optimization (Supervised Learning)
