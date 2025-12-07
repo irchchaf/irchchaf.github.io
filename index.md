@@ -1,6 +1,5 @@
 Summary
-
-Researcher at the intersection of machine learning and wireless communications, with expertise in optimization, deep learning, and distributed learning for next-generation networks developed through PhD and postdoctoral projects. Skilled in Python, MATLAB, and AI-driven modeling, with a solid publication record and experience in interdisciplinary collaboration.
+<p style="text-align: justify;">Researcher at the intersection of machine learning and wireless communications, with expertise in optimization, deep learning, and distributed learning for next-generation networks developed through PhD and postdoctoral projects. Skilled in Python, MATLAB, and AI-driven modeling, with a solid publication record and experience in interdisciplinary collaboration.</p>
 
 ## Selected projects 
 ---
@@ -14,6 +13,15 @@ Researcher at the intersection of machine learning and wireless communications, 
 [View code on Github](https://github.com/irchchaf/Hybrid-Tree-Transformer-Model)
 
 ---
+### Modified CosFormer for Users Association and Power Allocation
+<p style="text-align: justify;">This project presents a lightweight Transformer model for joint AP clustering and power allocation in user-centric cell-free massive MIMO systems. Unlike existing approaches, the model handles dynamic network configurations without channel estimation and eliminates pilot contamination through smart AP-user assignment. A customized linear attention mechanism efficiently captures user-AP interactions, achieving linear scalability with the number of users. Experiments demonstrate near-optimal performance in maximizing minimum spectral efficiency, combining adaptability, efficiency, and robustness in dynamic wireless scenarios.</p>
+
+<img src="images/projELUCOS.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
+
+[View code on Github]()
+
 
 ### Transformer model for flexible power optimization (Supervised Learning)
 <p style="text-align: justify;">The transformer model is trained to predict optimal powers (Uplink and Downlink jointly) for wireless networks using the positions of users and transmitters as input information. The transformer architecture allows to handle varying input sizes to handle the dynamic nature of wireless networks with varying user loads and active transmitters. The trained model provides optimal power performance, but with less computational complexity and input information compared to the traditional optimization methods.</p>
@@ -66,23 +74,7 @@ Researcher at the intersection of machine learning and wireless communications, 
 
 ---
 
-### Customers feedback sentiment analysis
-<p style="text-align: justify;">In this project, I classify customers feedback from various sources such as social media, review platforms and testimonials into positive or negative by performing sentiment analysis.</p>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)   [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
-
-[View code on Github](https://github.com/irchchaf/Customer_feedback_sentiment_analysis)
-
----
-
-### Classification and Regression
-<p style="text-align: justify;">This projects contains notebooks of regression and classification problems. The first notebook represents a classification problem to predict whether a patient is infected with covid-19 or not. The second notebook aims to predict a diamond price using tabular regression. It contains two main parts: EDA and price prediction.</p>
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)   [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
-
-[View code on Github](https://github.com/irchchaf/regression_and_classification_problems)
 
 
 
