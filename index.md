@@ -1,12 +1,9 @@
 Summary
----
+
 Researcher at the intersection of machine learning and wireless communications, with expertise in optimization, deep learning, and distributed learning for next-generation networks developed through PhD and postdoctoral projects. Skilled in Python, MATLAB, and AI-driven modeling, with a solid publication record and experience in interdisciplinary collaboration.
----
 
 ## Selected projects 
-
 ---
-
 ### Hybrid Tree-Transformer Model for Power Optimization
 <p style="text-align: justify;">This project introduces a hybrid Tree-Transformer model for efficient per-user power optimization in wireless networks. By compressing user features into a single root and applying a Transformer only to this representation, the model achieves scalable inference with minimal computational cost. Experiments show it delivers near-optimal performance while significantly reducing runtime compared to standard full-attention approaches.</p>
 
